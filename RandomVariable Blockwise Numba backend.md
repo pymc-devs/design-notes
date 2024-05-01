@@ -3,7 +3,7 @@
 
 ## Problem
 
-Allocating the output arrays requires knowing `size`/`batch_shape` (easy) and `core_shape`.
+Allocating the output arrays requires knowing `size`/`batch_shape` (easy) and `core_shape` (harder). What should we do for the `core_shape`?
 
 ## Options
 
